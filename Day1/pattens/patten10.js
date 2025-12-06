@@ -18,7 +18,6 @@ for (let i = 1; i <= row; i++) {
         } else {
             str += ' '
         }
-
     }
     console.log(str)
 }
